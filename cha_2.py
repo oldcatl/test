@@ -1,6 +1,9 @@
 from itertools import groupby
 import cv2
 
+
+#test
+
 def getHProjection(image):  # 水平投影
     # 图像高与宽
     (h, w) = image.shape
