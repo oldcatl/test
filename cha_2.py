@@ -2,7 +2,7 @@ from itertools import groupby
 import cv2
 
 
-#test
+#test2
 
 def getHProjection(image):  # 水平投影
     # 图像高与宽
