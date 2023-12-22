@@ -32,7 +32,7 @@
 
 这就是传说中的……
 
-![tdd](https://github.com/oldcatl/test/blob/master/JUnit.assets/l-17032280675331.jpeg)
+![tdd](https://github.com/oldcatl/test/blob/master/JUnit.assets/image-20231220153226357.png)
 
 当然，这是一种理想情况。大部分情况是我们已经编写了实现代码，需要对已有的代码进行测试。
 
