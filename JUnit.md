@@ -32,7 +32,7 @@
 
 这就是传说中的……
 
-![tdd](JUnit.assets/l.jpeg)
+![tdd](https://github.com/oldcatl/test/raw/master/JUnit.assets/l.jpeg)
 
 当然，这是一种理想情况。大部分情况是我们已经编写了实现代码，需要对已有的代码进行测试。
 
@@ -86,7 +86,7 @@ JUnit是一个开源的Java语言的单元测试框架，专门针对Java设计�
 
 以Eclipse为例，当我们已经编写了一个`Factorial.java`文件后，我们想对其进行测试，需要编写一个对应的`FactorialTest.java`文件，以`Test`为后缀是一个惯例，并分别将其放入`src`和`test`目录中。最后，在`Project` - `Properties` - `Java Build Path` - `Libraries`中添加`JUnit 5`的库：
 
-![junit-lib](JUnit.assets/l-17030423378201.png)
+![junit-lib](https://github.com/oldcatl/test/raw/master/JUnit.assets/l-17030423378201.png)
 
 整个项目结构如下：
 
